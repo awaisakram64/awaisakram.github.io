@@ -1,0 +1,20 @@
+{"datasets": [{
+        "name": "National Business Value",
+        "data": [43934, -52503, 57177, 69658, 97031, 119931, 137133, 154175,53423,54632,52324,61234],
+        "unit": "$",
+        "type": "line",
+        "valueDecimals": 0
+    }, {
+        "name": "Closing Net Debit",
+        "data": [231, 232,241, 364,454, 251, 358, 452, 264, 642, 653,721],
+        "unit": "$",
+        "type": "line",
+        "valueDecimals": 0
+    }, {
+        "name": "Equity",
+        "data": [452, 264, 642, 653,721,231, 232,241, 364,454, 251, 358],
+        "unit": "$",
+        "type": "line",
+        "valueDecimals": 0
+    }]
+}
